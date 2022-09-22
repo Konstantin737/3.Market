@@ -1,0 +1,170 @@
+.header {
+    width: 1000px;
+    height: 125px;
+    background-image: url(images/header.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.logoclick {
+    position: absolute;
+    background-color:  rgba(0, 0, 0, 0.0);
+    width: 260px;
+    height: 125px;
+    cursor: pointer;
+}
+
+.header-line1 {
+    width: 595px;
+    height: 20px;
+    background-color:  rgba(0, 0, 0, 0.0);
+    padding-left: 265px;
+    padding-top: 35px;
+}
+
+.header-line2 {
+    width: 410px;
+    height: 30px;
+    background-color:  rgba(0, 0, 0, 0.0);
+    padding-left: 520px;
+    padding-top: 5px;
+}
+
+.line-gorizont {
+    padding-left: 265px;
+    padding-top: 0px;
+}
+
+.header-line2-blok1 {
+    display: inline-block;
+    vertical-align: top;
+    height: 20px;
+    width: 110px;
+}
+
+.header-line2-blok2 {
+    display: inline-block;
+    vertical-align: top;
+    height: 20px;
+    width: 105px;
+}
+
+.header-line2-blok3 {
+    display: inline-block;
+    vertical-align: top;
+    height: 20px;
+    width: 145px;
+}
+
+.header-image-blok1 {
+    display: inline-block;
+    vertical-align: top;
+    width: 10px;
+    height: 16px;
+    background-image: url(images/tel.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.header-text-blok1 {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 2px;
+    width: 90px;
+    height: 20px;
+}
+
+.header-image-blok2 {
+    display: inline-block;
+    vertical-align: top;
+    width: 16px;
+    height: 16px;
+    background-image: url(images/icq.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.header-text-blok2 {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 2px;
+    width: 75px;
+    height: 20px;
+}
+
+.header-image-blok3 {
+    display: inline-block;
+    vertical-align: top;
+    width: 16px;
+    height: 16px;
+    background-image: url(images/market.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.header-text-blok3 {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 2px;
+    width: 125px;
+    height: 20px;
+}
+
+.button-line2 {
+    display: inline-block;
+    vertical-align: top;
+    width: 50px;
+    height: 15px;
+    margin-top: 2px;
+    background-color: #CFEBE7;
+    border-radius: 5px;
+    cursor: pointer;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    
+    &:hover {
+        box-shadow: 0 0 5px gray;
+    }
+}
+
+.a4 {
+    font-size: 12px;
+    line-height: 20px;
+    margin-left: 4px;
+    margin-bottom: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-decoration: none;
+    cursor: default;
+}
+
+.a5 {
+    font-size: 12px;
+    line-height: 20px;
+    margin-left: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #BE5A5A;
+    text-decoration: none;
+}
+
+.a6 {
+    font-size: 10px;
+    text-align: center;
+    line-height: 15px;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-decoration: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+}

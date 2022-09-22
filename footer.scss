@@ -1,0 +1,100 @@
+.footer {
+    margin: 25px auto auto auto;
+    height: 85px;
+    width: 1000px;
+    background-image: url(images/footer2.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.footer-line1 {
+    width: 595px;
+    height: 12px;
+    background-color:  rgba(0, 0, 0, 0.0);
+    padding-left: 265px;
+    padding-top: 7px;
+}
+
+.footer-line2 {
+    width: 380px;
+    height: 30px;
+    background-color:  rgba(0, 0, 0, 0.0);
+    padding-left: 539px;
+    padding-top: 5px;
+}
+
+.footer-line-gorizont {
+    padding-left: 263px;
+    padding-top: 0px;
+}
+
+.footer-line2 {
+    width: 595px;
+    height: 40px;
+    background-color:  rgba(0, 0, 0, 0.0);
+    padding-left: 50px;
+}
+
+.footer-line2-blok {
+    display: inline-block;
+    vertical-align: top;
+    background-color: rgba(0, 0, 0, 0.0);
+    width: 100px;
+    height: 40px;
+}
+
+.one {
+    width: 85px;
+    height: 30px;
+    border: 1px solid black;
+    background-image: url(images/sch1.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+.two {
+    width: 85px;
+    height: 30px;
+    margin-left: 2px;
+    border: 1px solid black;
+    background-image: url(images/sch2.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+.footer-line2-text {
+    width: 300px;
+    height: 15px;
+    margin-top: 5px;
+    margin-left: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    line-height: 7px;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+.text2 {
+    width: 170px;
+    margin-left: 380px;
+}
+
+.footer-line2-image {
+    width: 115px;
+    height: 35px;
+    margin-top: 0px;
+    margin-left: 470px;
+    background-image: url(images/logo.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
